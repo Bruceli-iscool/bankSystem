@@ -9,6 +9,6 @@ public class Data {
         data = d;
     }
     protected void changeMoney() {
-
+        
     }
 }
